@@ -32,6 +32,7 @@
       <string>Lineales</string>
      </property>
      <addaction name="actionLista_Enlazada"/>
+     <addaction name="actionConvertidor"/>
     </widget>
     <addaction name="menuLineales"/>
     <addaction name="actionSalir"/>
@@ -47,6 +48,11 @@
   <action name="actionSalir">
    <property name="text">
     <string>Salir</string>
+   </property>
+  </action>
+  <action name="actionConvertidor">
+   <property name="text">
+    <string>Convertidor Pila</string>
    </property>
   </action>
  </widget>

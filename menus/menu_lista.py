@@ -1,4 +1,6 @@
+from load.load_convertidor import VentanaConvertidor
 from estructuras.lineales.lista_enlazada_simple import LinkedList
+
 
 class MenuListaEnlazada(object):
     def __init__(self):
